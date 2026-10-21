@@ -1,8 +1,8 @@
 # Mar-Correro
-I'm currently working as a Business Analyst at Sopra Steria, bridging the gap between technology and innovative solutions for banking clients.
-
-🔬 Interests: Bioinformatics, Machine Learning, Artificial Intelligence, and biological data analysis.
+Quality Engineer passionate about Data Science and Bioinformatics. Currently working as a Business Analyst at Sopra Steria, bridging the gap between technology and innovative solutions for banking clients. I’m particularly interested in applying data science, machine learning, and AI to biological and biomedical research, with a focus on Bioinformatics.
 
 💻 Technologies: Python, NumPy, pandas, scikit-learn, and data visualization.
+R- programming and data
+PHP, SQL and PL/SQL
 
-🧬 Goal: To apply data science and machine learning techniques to biological and biomedical research.
+
